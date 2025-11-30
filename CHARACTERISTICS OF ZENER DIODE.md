@@ -15,10 +15,13 @@
 The diodes, which are designed to operate in the breakdown region, are called the Zener diode. The other name is AVALANCHE diode. There are two types of breakdown in these diodes they are Avalanche and Zener breakdown. In avalanche breakdown the, conduction in reverse bias is due to avalanche multiplication of charge carrier. In Zener diode is breakdown is due to direct rupture of covalent bonds because of strong electric field. The actual intensity of the electric field strength that produces Zener breakdown voltage. Avalanche breakdowns will have higher breakdown voltages from several volts to several hundred volts.
 ## CIRCUIT DIAGRAM: 
 ## FORWARD BIAS:
+<img width="1029" height="428" alt="image" src="https://github.com/user-attachments/assets/2d12d8c6-41d4-4d03-8e1f-3c23035bb5e9" />
 
 ## REVERSE BIAS:
+<img width="1029" height="439" alt="image" src="https://github.com/user-attachments/assets/f7fa56e0-b62c-4e2c-856c-bdbcd03dc856" />
 
 ## MODEL GRAPH:
+<img width="1029" height="710" alt="image" src="https://github.com/user-attachments/assets/452c1fda-275a-499d-9fd1-00c4e89a83db" />
 
 ## PROCEDURE:  
 ## FORWARD BIAS 
@@ -39,15 +42,18 @@ The diodes, which are designed to operate in the breakdown region, are called th
 
 ## FORMULA USED
 
-**Forward Resistance**  **R<sub>F</sub> = ΔV<sub>F</sub> / ΔI<sub>F</sub> (Ω)**  
+**Forward Resistance**  **R<sub>F</sub> = ΔV<sub>F</sub> / ΔI<sub>F</sub> (Ω)**  ΔVF / ΔIF (Ω) ΔVF / ΔIF (Ω)
 
-**Reverse Resistance**  **R<sub>R</sub> = ΔV<sub>R</sub> / ΔI<sub>R</sub> (Ω)** 
+**Reverse Resistance**  **R<sub>R</sub> = ΔV<sub>R</sub> / ΔI<sub>R</sub> (Ω)**  ΔVR / ΔIR (Ω)**ΔVR / ΔIR (Ω)
 
 ## TABULATION:
+<img width="1075" height="1600" alt="image" src="https://github.com/user-attachments/assets/fb47e794-898b-48d9-a8ee-8b81615173dc" />
 
 ## CALCULATIONS:
+<img width="907" height="1600" alt="image" src="https://github.com/user-attachments/assets/f5597dc0-0c29-4726-a801-d505304155a4" />
 
 ## GRAPH:
+<img width="1106" height="1462" alt="image" src="https://github.com/user-attachments/assets/cd64f6fe-b898-4853-b323-6003d0500472" />
 
  ## RESULT:
  Thus the Zener diode characteristics were studied.
