@@ -36,15 +36,19 @@ LT-Spice
 
 
 ## CIRCUIT DIAGRAM:
+<img width="903" height="412" alt="image" src="https://github.com/user-attachments/assets/6b882d73-d4cc-4f39-95a8-251d992ad28c" />
 
 
 ## AC INPUT WAVEFORM:
+<img width="779" height="390" alt="image" src="https://github.com/user-attachments/assets/440ff595-45f7-4f0d-a000-56bfdf9346fe" />
 
 
 ## OUTPUT GRAPH:
 ## SIGNAL OUTPUT(WITHOUT FILTER)
+<img width="778" height="393" alt="image" src="https://github.com/user-attachments/assets/3dae97a9-1caa-423f-962d-8d138ed70a70" />
 
 ## SIGNAL OUTPUT(WITH FILTER)
+<img width="776" height="388" alt="image" src="https://github.com/user-attachments/assets/b363e8ac-f095-442f-94a2-5eaa653daa08" />
 
 
 
